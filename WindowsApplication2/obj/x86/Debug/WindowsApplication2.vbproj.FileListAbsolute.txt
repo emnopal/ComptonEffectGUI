@@ -22,3 +22,4 @@ E:\Code\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication
 E:\Code\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.MainApps.resources
 E:\Code\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
 E:\Code\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\Code\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojAssemblyReference.cache
