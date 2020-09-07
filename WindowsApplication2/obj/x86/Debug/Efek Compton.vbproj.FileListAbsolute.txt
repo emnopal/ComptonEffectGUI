@@ -1,0 +1,13 @@
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.About.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Konstanta.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Konversi.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.MainApps.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Efek Compton.vbproj.GenerateResource.cache
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Efek Compton.vbproj.CoreCompileInputs.cache
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
