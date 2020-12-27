@@ -1,13 +1,22 @@
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.About.resources
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Konstanta.resources
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Konversi.resources
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.MainApps.resources
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Efek Compton.vbprojAssemblyReference.cache
 E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Efek Compton.vbproj.GenerateResource.cache
 E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Efek Compton.vbproj.CoreCompileInputs.cache
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
-E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.exe.config
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.exe
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.pdb
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.xml
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\id-ID\ComptonEffect.resources.dll
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.About.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.Konstanta.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.Konversi.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.MainApps.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.Resources.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.MainApps.id-ID.resources
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\id-ID\ComptonEffect.resources.dll
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.exe
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.xml
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.pdb
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.exe.manifest
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\bin\Debug\ComptonEffect.application
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.exe.manifest
+E:\Dev\Project Kelar\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ComptonEffect.application

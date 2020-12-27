@@ -150,13 +150,19 @@
     <value>File</value>
   </data>
   <data name="DokumentasiToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>144, 22</value>
   </data>
   <data name="DokumentasiToolStripMenuItem.Text" xml:space="preserve">
     <value>Dokumentasi</value>
   </data>
+  <data name="WebsiteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 22</value>
+  </data>
+  <data name="WebsiteToolStripMenuItem.Text" xml:space="preserve">
+    <value>Website</value>
+  </data>
   <data name="ExitToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>144, 22</value>
   </data>
   <data name="ExitToolStripMenuItem1.Text" xml:space="preserve">
     <value>Tentang</value>
@@ -190,7 +196,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;MenuStrip1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="Label12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -583,7 +589,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="ColumnHeader5.Text" xml:space="preserve">
     <value>No.</value>
@@ -613,7 +619,7 @@
     <value>12, 184</value>
   </data>
   <data name="ListView2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>300, 271</value>
+    <value>300, 243</value>
   </data>
   <data name="ListView2.TabIndex" type="System.Int32, mscorlib">
     <value>44</value>
@@ -628,7 +634,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ListView2.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="Chart1.Location" type="System.Drawing.Point, System.Drawing">
     <value>318, 33</value>
@@ -652,11 +658,59 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Chart1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 433</value>
+  </data>
+  <data name="Button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 22</value>
+  </data>
+  <data name="Button2.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="Button2.Text" xml:space="preserve">
+    <value>Simpan Tabel ke CSV</value>
+  </data>
+  <data name="&gt;&gt;Button2.Name" xml:space="preserve">
+    <value>Button2</value>
+  </data>
+  <data name="&gt;&gt;Button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 433</value>
+  </data>
+  <data name="Button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="Button3.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="Button3.Text" xml:space="preserve">
+    <value>Simpan Grafik ke Gambar</value>
+  </data>
+  <data name="&gt;&gt;Button3.Name" xml:space="preserve">
+    <value>Button3</value>
+  </data>
+  <data name="&gt;&gt;Button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>id-ID</value>
-  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -667,7 +721,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>890, 465</value>
+    <value>890, 462</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Simulasi Efek Compton</value>
@@ -706,6 +760,12 @@
     <value>DokumentasiToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;DokumentasiToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WebsiteToolStripMenuItem.Name" xml:space="preserve">
+    <value>WebsiteToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;WebsiteToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;ExitToolStripMenuItem1.Name" xml:space="preserve">

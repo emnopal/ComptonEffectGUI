@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class MainApps
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class MainApps
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MainApps))
         Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
@@ -33,6 +33,7 @@ Partial Class MainApps
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.DokumentasiToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.WebsiteToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ExitToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -56,6 +57,8 @@ Partial Class MainApps
         Me.ColumnHeader7 = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColumnHeader8 = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.Chart1 = New System.Windows.Forms.DataVisualization.Charting.Chart()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         CType(Me.Chart1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -91,7 +94,7 @@ Partial Class MainApps
         '
         'HelpToolStripMenuItem
         '
-        Me.HelpToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DokumentasiToolStripMenuItem, Me.ExitToolStripMenuItem1})
+        Me.HelpToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DokumentasiToolStripMenuItem, Me.WebsiteToolStripMenuItem, Me.ExitToolStripMenuItem1})
         Me.HelpToolStripMenuItem.Name = "HelpToolStripMenuItem"
         resources.ApplyResources(Me.HelpToolStripMenuItem, "HelpToolStripMenuItem")
         '
@@ -99,6 +102,11 @@ Partial Class MainApps
         '
         Me.DokumentasiToolStripMenuItem.Name = "DokumentasiToolStripMenuItem"
         resources.ApplyResources(Me.DokumentasiToolStripMenuItem, "DokumentasiToolStripMenuItem")
+        '
+        'WebsiteToolStripMenuItem
+        '
+        Me.WebsiteToolStripMenuItem.Name = "WebsiteToolStripMenuItem"
+        resources.ApplyResources(Me.WebsiteToolStripMenuItem, "WebsiteToolStripMenuItem")
         '
         'ExitToolStripMenuItem1
         '
@@ -251,11 +259,25 @@ Partial Class MainApps
         Series1.YValuesPerPoint = 2
         Me.Chart1.Series.Add(Series1)
         '
+        'Button2
+        '
+        resources.ApplyResources(Me.Button2, "Button2")
+        Me.Button2.Name = "Button2"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'Button3
+        '
+        resources.ApplyResources(Me.Button3, "Button3")
+        Me.Button3.Name = "Button3"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'MainApps
         '
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Chart1)
         Me.Controls.Add(Me.ListView2)
         Me.Controls.Add(Me.MenuStrip1)
@@ -302,5 +324,7 @@ Partial Class MainApps
     Friend WithEvents KonversiToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents KonstantaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents DokumentasiToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-
+    Friend WithEvents WebsiteToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents Button2 As Button
+    Friend WithEvents Button3 As Button
 End Class

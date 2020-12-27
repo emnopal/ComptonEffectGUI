@@ -33,7 +33,7 @@ Partial Class About
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(170, 13)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Simulasi Efek Compton V.1.0.2020" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.Label1.Text = "Simulasi Efek Compton V.1.2.2020" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'Button1
         '
